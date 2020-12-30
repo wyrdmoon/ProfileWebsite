@@ -1,0 +1,38 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+    padding: 0;
+    background-color:aliceblue;
+    
+   
+   
+}
+
+.skills {
+    
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    
+}
+.past-projects {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+body {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    
+}
+
+
+
+
+
+
+
+
