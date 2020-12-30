@@ -3,9 +3,7 @@
     margin: 0;
     padding: 0;
     background-color:aliceblue;
-    
-   
-   
+ 
 }
 
 .skills {
@@ -26,6 +24,7 @@ body {
     display: grid;
     justify-items: center;
     align-items: center;
+   
     
 }
 
